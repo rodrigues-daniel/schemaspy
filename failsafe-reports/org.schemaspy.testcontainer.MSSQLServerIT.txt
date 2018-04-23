@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.schemaspy.testcontainer.MSSQLServerIT
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 48.897 s - in org.schemaspy.testcontainer.MSSQLServerIT

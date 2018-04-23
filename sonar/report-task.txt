@@ -1,0 +1,6 @@
+projectKey=org.schemaspy:schemaspy
+serverUrl=https://sonarcloud.io
+serverVersion=7.1.1.10702
+dashboardUrl=https://sonarcloud.io/dashboard/index/org.schemaspy:schemaspy
+ceTaskId=AWLw9lj9Xt8T3cY7QbYC
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWLw9lj9Xt8T3cY7QbYC
